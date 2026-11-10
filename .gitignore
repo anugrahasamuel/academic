@@ -1,0 +1,19 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+**/*.quarto_ipynb
+
+# macOS files
+.DS_Store
+
+# Quarto generated files
+_site/
+.quarto/
+*_cache/
+
+# Files not needed in public repository
+main
+files/Anugraha_Samuel_CV.pdf
